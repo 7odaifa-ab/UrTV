@@ -1,0 +1,20 @@
+{
+ "updated": "2026-11-13T15:03:23Z",
+ "events": 12931,
+ "new": 699,
+ "updated_events": 0,
+ "pruned": 0,
+ "leagues": 19,
+ "seasons": 55,
+ "teams": 323,
+ "pairs": 2477,
+ "bytes": 6204466,
+ "seconds": 0.69,
+ "problems": [],
+ "last_live": "",
+ "live_requests": 0,
+ "backfill": {
+  "games": 12866,
+  "names_not_found": 2
+ }
+}
